@@ -1,0 +1,15 @@
+Date: 2024-10-05 22:15:22
+Description: kdwn
+Amount: $30.00
+Category: d
+---------------------------------
+Date: 2024-10-05 22:16:20
+Description: nf
+Amount: $20.00
+Category: msdnc
+---------------------------------
+Date: 2024-10-05 22:29:22
+Description: kdf
+Amount: $30.00
+Category: kscn
+---------------------------------

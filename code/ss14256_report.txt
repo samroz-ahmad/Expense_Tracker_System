@@ -1,0 +1,10 @@
+Date: 2024-10-07 23:00:37
+Description: Petrol
+Amount: $200.00
+Category: Fixed
+---------------------------------
+Date: 2024-10-07 23:23:28
+Description: Petrol
+Amount: $200.00
+Category: Fixed
+---------------------------------
